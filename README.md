@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin068&label=Profile%20views&color=0e75b6&style=flat" alt="alamin068" /> </p>
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+- 🌱 I’m currently learning **TypeScript and Playwright**
 
 - 💬 Ask me about **Java**
 
