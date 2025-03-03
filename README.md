@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin Bin Shafiq</h1>
-<h3 align="center">A passionate Spring Boot Developer using Java</h3>
+<h3 align="center">A passionate QA Engineer using Selenium and Playwright</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/gZrn9vqk23cAAAAM/stackoverflow.gif">
 
